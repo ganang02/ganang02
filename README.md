@@ -67,6 +67,25 @@
 
 ---
 
+### 🔥 Notable Projects
+
+#### 🌐 [Portofolio Website](https://gannuniverse.online)
+![Portfolio](https://ibb.co.com/5z0g41z)
+
+- Personal portfolio website showcasing my projects, skills, and experience.
+
+#### 🛒 [Store Website](https://store.gannuniverse.online)
+![Store](https://ibb.co.com/27HwbKkr)
+
+- E-commerce store where users can browse and purchase items.
+
+#### 🎥 [Anime Website](https://kuronechan-nime.vercel.app)
+![Anime Website](https://ibb.co.com/1fdLzD1n)
+
+- Website dedicated to anime fans where users can stream and discover anime.
+
+---
+
 ### 📬 Contact Me
 - 📷 Instagram: [@ganangramadhan](https://instagram.com/ganangramadhan)
 - ✉️ Email: ganangrpamungkas02@gmail.com
