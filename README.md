@@ -70,19 +70,20 @@
 ### 🔥 Notable Projects
 
 #### 🌐 [Portofolio Website](https://gannuniverse.online)
-![Portfolio](https://ibb.co.com/5z0g41z)
+![Portfolio](https://i.imgur.com/wcCsFF2.jpg)
 
 - Personal portfolio website showcasing my projects, skills, and experience.
 
 #### 🛒 [Store Website](https://store.gannuniverse.online)
-![Store](https://ibb.co.com/27HwbKkr)
+![Store](https://i.imgur.com/HKRJFRu.jpg)
 
 - E-commerce store where users can browse and purchase items.
 
 #### 🎥 [Anime Website](https://kuronechan-nime.vercel.app)
-![Anime Website](https://ibb.co.com/1fdLzD1n)
+![Anime Website](https://i.imgur.com/XSPFjo3.jpg)
 
 - Website dedicated to anime fans where users can stream and discover anime.
+
 
 ---
 
