@@ -50,15 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganang02&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganang02&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ### 📬 Contact Me
 - 📷 Instagram: [@ganangramadhan](https://instagram.com/ganangramadhan)
 - ✉️ Email: ganangrpamungkas02@gmail.com
